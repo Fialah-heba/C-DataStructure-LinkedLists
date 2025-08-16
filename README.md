@@ -1,7 +1,7 @@
 # **Linked Lists: Radix Sort**
 ## **Overview**
-In this project, will  be implement an application of Linked Lists: Radix 
-Sort. 
+In this project, will  be implement an application of Linked Lists: **Radix 
+Sort**. 
 
 This application should be able to sort a list of strings (i.e., words and 
 assume words start only with letters) from an input file using Radix Sort. 
