@@ -2,9 +2,11 @@
 ## **Overview**
 In this project, will  be implement an application of Linked Lists: Radix 
 Sort. 
+
 This application should be able to sort a list of strings (i.e., words and 
 assume words start only with letters) from an input file using Radix Sort. 
-This should be done using a doubly implementation of the Linked List.  
+This should be done using a doubly implementation of the Linked List. 
+
 Assume the maximum length of the input string is 30 characters; the input 
 file would contain an unspecified number of strings. The input file should 
 contain one string in each line. Having read the strings successfully, this 
@@ -14,6 +16,7 @@ algorithm.
 The user should be displayed a menu with the options necessary to run the 
 functionalities of the program (i.e., read the input file, print the strings 
 before sorting, sort the strings, print the sorted strings, and exit). 
+
 This application should be able to show the following information through 
 a proper menu of the application: 
 
