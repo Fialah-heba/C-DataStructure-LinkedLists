@@ -7,14 +7,16 @@ assume words start only with letters) from an input file using Radix Sort.
 This should be done using a doubly implementation of the Linked List.  
 Assume the maximum length of the input string is 30 characters; the input 
 file would contain an unspecified number of strings. The input file should 
-contain one string in each line. Having read the strings successfully, your 
+contain one string in each line. Having read the strings successfully, this 
 application should then sort the input strings using the Radix Sort 
 algorithm. 
+
 The user should be displayed a menu with the options necessary to run the 
 functionalities of the program (i.e., read the input file, print the strings 
 before sorting, sort the strings, print the sorted strings, and exit). 
-Your application should be able to show the following information through 
+This application should be able to show the following information through 
 a proper menu of the application: 
+
 1. Load the strings 
 2. Print the strings before sorting 
 3. Sort the strings 
